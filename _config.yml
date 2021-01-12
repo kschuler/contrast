@@ -16,7 +16,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:
-  - {file: "index.md", icon: home}
+  - {url: "https://childlanglab.com", title: Lab}
   - {file: "katie.pdf", title: CV}
 
 external:                  # see http://fontawesome.com/icons
@@ -31,5 +31,7 @@ comments:
 plugins:
  - jekyll-feed
  - jekyll-remote-theme
+ - jekyll-font-awesome-sass
+ 
  
 remote_theme: niklasbuschmann/contrast@v2.10
