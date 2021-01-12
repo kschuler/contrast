@@ -34,4 +34,4 @@ plugins:
  - jekyll-font-awesome-sass
  
  
-remote_theme: niklasbuschmann/contrast@v2.10
+remote_theme: niklasbuschmann/contrast@v2.11
