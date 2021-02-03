@@ -16,8 +16,9 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:
-  - {url: "https://childlanglab.com", title: My Lab}
-  - {url: "/katie.pdf", title: My CV}
+  - {url: "https://childlanglab.com", title: Lab}
+  - {url: "/katie.pdf", title: CV}
+  - {url: "/blog.md", title: Blog}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:kschuler@sas.upenn.edu"}
